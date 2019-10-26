@@ -42,7 +42,7 @@ class App extends Component {
           {
             id: 2,
             title: 'Bus',
-            completed: false
+            completed: true
           },
           {
             id: 3,
