@@ -38,7 +38,7 @@ TodoItem.propTypes = {
       background: '#ff0000',
       color: '#fff',
       border: 'none',
-      paddding: '5px 15px',
+      padding: '5px 10px',
       borderRadius: '50%',
       cursor: 'pointer',
       float: 'right'
