@@ -4,7 +4,7 @@
 }
 
 body{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   line-height: 1.4;
 
 }
@@ -19,8 +19,8 @@ a{
 .btn{
   display: inline-block;
   border: none;
-  background: #555;
-  color: #fff;
+  background: #212d40;
+  color: #cddddd;
   padding: 7px 20px;
   cursor: pointer;
 }
